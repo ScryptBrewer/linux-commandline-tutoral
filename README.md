@@ -7,7 +7,7 @@ This tutorial provides hands-on experience with Linux built-in commands, special
 
 ```bash
 # Clone the repository
-git clone https://your-repo/linux-commands-tutorial.git
+git clone https://github.com/ScryptBrewer/linux-commandline-tutoral.git
 cd linux-commandline-tutoral
 
 

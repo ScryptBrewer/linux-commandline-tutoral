@@ -21,10 +21,7 @@ chmod +x linux_builtin_tutorial.sh
 pwd
 cd ..
 rm -r linux-commandline-tutoral
-
-
-# Linux Commands Tutorial
-[Previous sections remain the same...]
+```
 
 ## Command Reference Guide
 

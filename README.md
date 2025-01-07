@@ -13,9 +13,11 @@ cd linux-commandline-tutoral
 
 # Make the script executable
 chmod +x linux_builtin_tutorial.sh
+chmod +x parameter_awk_tutorial.sh
 
 # Run the tutorial
 ./linux_builtin_tutorial.sh
+./parameter_awk_tutorial.sh
 
 # Cleanup after done
 pwd
